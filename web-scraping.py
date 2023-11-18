@@ -79,7 +79,6 @@ except ValueError:
     print("Something went wrong, please typing a number!")
 
 # conditions for user inputs
-
 if userInput == 1:
     print()
     allJobs()
