@@ -1,4 +1,4 @@
-<h1> Web Scraping - Python Project</h1>
+<h1>Web Scraping using BeautifulSoup in Python</h1>
 <br>
 <h2>Features</h2>
 <ul>
