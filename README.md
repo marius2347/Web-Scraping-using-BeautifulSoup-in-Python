@@ -11,10 +11,6 @@
     <li> Website used: https://realpython.github.io/fake-jobs/ </li>
 </ul>
 
-
-<h2>Acknowledgments</h2>
-
-<b> Python3: http://bit.ly/python3-certifications <b>
 <br>
 
 <h2>Photo</h2>
