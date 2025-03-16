@@ -8,7 +8,6 @@
     <li> Length of jobs found </li>
     <li> Links of each job provided </li>
     <li> User input friendly handling exceptions </li>
-    <li> Website used: https://realpython.github.io/fake-jobs/ </li>
 </ul>
 
 <br>
